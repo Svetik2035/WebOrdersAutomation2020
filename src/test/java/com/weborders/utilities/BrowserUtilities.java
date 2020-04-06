@@ -1,4 +1,4 @@
-package com.weborders.tests.utilities;
+package com.weborders.utilities;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.JavascriptExecutor;
@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-public class BrowserUtils {
+public class BrowserUtilities {
     /**
      * Pause test for some time
      *
